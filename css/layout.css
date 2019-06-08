@@ -38,7 +38,9 @@
    
  }  
  .first {    
-   margin-left:0;  
-   
+   margin-left:0;
  }  
-
+  
+.another-class{
+  margin-bottom:0;
+}
